@@ -1,0 +1,12 @@
+C:\Users\Udav 2\source\repos\Suicide Bot\obj\Debug\Suicide Bot.csprojAssemblyReference.cache
+C:\Users\Udav 2\source\repos\Suicide Bot\obj\Debug\Suicide Bot.csproj.CoreCompileInputs.cache
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Suicide Bot.exe.config
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Suicide Bot.exe
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Suicide Bot.pdb
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Udav 2\source\repos\Suicide Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\Udav 2\source\repos\Suicide Bot\obj\Debug\Suicide Bot.csproj.CopyComplete
+C:\Users\Udav 2\source\repos\Suicide Bot\obj\Debug\Suicide Bot.exe
+C:\Users\Udav 2\source\repos\Suicide Bot\obj\Debug\Suicide Bot.pdb
